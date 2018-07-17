@@ -23,5 +23,11 @@ navbar {
 #projects {
   padding-top: 500px;
   height: 400px;
-  background-color: white
+  background-color: lightpink;
+}
+
+#contacts {
+  padding-top: 100px;
+  height: 400px;
+  background-color: white;
 }
