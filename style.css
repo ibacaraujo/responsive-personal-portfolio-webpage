@@ -21,5 +21,7 @@ navbar {
 }
 
 #projects {
-  padding-top: 400px;
+  padding-top: 500px;
+  height: 400px;
+  background-color: white
 }
