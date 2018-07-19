@@ -26,13 +26,11 @@ navbar {
 }
 
 #projects {
-  padding-top: 200px;
   height: 200px;
   background-color: lightpink;
 }
 
 #contacts {
-  padding-top: 80px;
   height: 200px;
   background-color: white;
 }
