@@ -1,7 +1,10 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
 #welcome-section {
   height: 100vh;
-  padding-top: 25vh;
-  padding-bottom: 25vh;
   background-color: lightblue;
 }
 
