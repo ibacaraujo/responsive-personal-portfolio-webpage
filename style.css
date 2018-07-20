@@ -4,6 +4,7 @@ html, body {
 }
 
 #welcome-section {
+  display: block;
   height: 100%;
   background-color: lightblue;
 }
@@ -24,11 +25,13 @@ navbar {
 }
 
 #projects {
+  display: block;
   height: 200px;
   background-color: lightpink;
 }
 
 #contacts {
+  display: block;
   height: 200px;
   background-color: white;
 }
