@@ -32,13 +32,12 @@ navbar {
 }
 
 #projects {
-  display: block;
+  margin-top: 600px;
   height: 200px;
   background-color: lightpink;
 }
 
 #contacts {
-  display: block;
   height: 200px;
   background-color: white;
 }
