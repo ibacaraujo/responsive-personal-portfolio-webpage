@@ -17,6 +17,7 @@ h1, h2 {
 h1 {
   font-family: 'Signika', sans-serif;
   font-size: 45px;
+  padding-bottom: 2px;
 }
 
 h2 {
