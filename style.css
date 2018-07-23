@@ -13,7 +13,7 @@ h1, h2 {
 }
 
 h1 {
-  font-family: 'Signika', sans-serif;
+  font-family: 'Alegreya', sans-serif;
   font-size: 45px;
   padding-bottom: 2px;
   padding-top: 390px;
@@ -49,6 +49,17 @@ a {
   margin-top: 400px;
   height: 200px;
   background-color: white;
+}
+
+.projects-flex-container {
+  display: flex;
+  justify-content: center;
+}
+
+.projects-flex-container > div {
+  background-color: lightgrey;
+  margin: 10px;
+  padding: 10px;
 }
 
 #contacts {
