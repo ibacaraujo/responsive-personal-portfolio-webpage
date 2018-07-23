@@ -4,9 +4,8 @@ html, body {
 }
 
 #welcome-section {
-  min-height: 55vh;
-  padding-top: 45vh;
-  top: 0;
+  height: 100vh;
+  top: 0px;
 }
 
 h1, h2 {
@@ -17,6 +16,7 @@ h1 {
   font-family: 'Signika', sans-serif;
   font-size: 45px;
   padding-bottom: 2px;
+  padding-top: 390px;
 }
 
 h2 {
@@ -34,7 +34,8 @@ h2 {
 }
 
 a {
-  padding: 4px;
+  padding-left: 8px;
+  padding-right: 10px;
   font-family: 'Alegreya', sans-serif;
 }
 
@@ -45,7 +46,7 @@ a {
 }
 
 #projects {
-  margin-top: 600px;
+  margin-top: 400px;
   height: 200px;
   background-color: white;
 }
