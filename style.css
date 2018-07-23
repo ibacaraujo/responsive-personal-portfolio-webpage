@@ -35,6 +35,7 @@ h2 {
 
 a {
   padding: 4px;
+  font-family: 'Alegreya', sans-serif;
 }
 
 @media (max-width: 800px) {
