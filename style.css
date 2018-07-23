@@ -33,6 +33,10 @@ h2 {
   width: 100%;
 }
 
+a {
+  padding: 4px;
+}
+
 @media (max-width: 800px) {
   body {
     background-color: lightgrey;
