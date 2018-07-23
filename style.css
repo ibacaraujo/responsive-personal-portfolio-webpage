@@ -4,10 +4,9 @@ html, body {
 }
 
 #welcome-section {
-  height: 100vh;
-  background-color: white;
-  text-align: center;
-  margin: auto 0;
+  min-height: 55vh;
+  padding-top: 45vh;
+  top: 0;
 }
 
 h1, h2 {
