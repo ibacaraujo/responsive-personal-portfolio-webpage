@@ -25,6 +25,8 @@ h2 {
 }
 
 #navbar {
+  display: flex;
+  justify-content: flex-end;
   position: fixed;
   top: 0px;
   background-color: lightblue;
